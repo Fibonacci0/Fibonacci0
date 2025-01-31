@@ -20,4 +20,3 @@ Welcome to my personal GitHub projects, tools, and experiments in the realms of 
 ## 🌟 Stats & Achievements:
 ![Fibonacci0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fibonacci0&show_icons=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fibonacci0&layout=compact)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fibonacci0)  
