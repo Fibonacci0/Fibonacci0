@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 Welcome to my personal GitHub projects, tools, and experiments in the realms of cybersecurity, penetration testing, software development, and IoT. My interests range from white-hat hacking and ethical penetration testing and bug-bounty to developing scalable applications and automated tools.
 
