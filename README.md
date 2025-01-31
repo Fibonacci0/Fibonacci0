@@ -1,22 +1,22 @@
 ## Hello 👋
 
-Welcome to my personal GitHub projects, tools, and experiments in the realms of cybersecurity, penetration testing, software development, and IoT. My interests range from white-hat hacking and ethical penetration testing and bug-bounty to developing scalable applications and automated tools.
+Welcome to my personal GitHub projects, tools, and experiments in the realms of cybersecurity, penetration testing, software development, and IoT.
 
 ## 🚀 My Projects:
 - **CrackInator**: A tool designed to automate SSH, FTP, and SMTP connection testing, along with password morphing.
 - **Web APIs**: Building REST APIs using **ASP.NET** and **Django**.
-- **Security Tools**: Custom scripts for ethical hacking and penetration testing, focusing on real-world application.
+- **Security Tools**: Custom scripts for penetration testing and bug-bounty **wink-wink**, focusing on real-world application.
 
 ## 💻 Technologies & Tools:
-- **Languages**: C#, Python, TypeScript, JavaScript, PHP
-- **Web Frameworks**: ASP.NET, Django, React, Angular
-- **Security Tools**: Metasploit, Burp Suite, Wireshark, Nmap
-- **Databases**: SQL Server, MySQL
+- **Languages**: C#, Python, TypeScript, JavaScript,
+- **Web Frameworks**: ASP.NET, Django, React  
+- **Tools I Use**: Burp Suite, **Nuclei**, **Custom Scripts**  
+- **Databases**: MSSQL, MySQL, SQLite
 - **Cloud**: AWS, Cloudflare
 
 
-- 🌱 **Currently learning**: Advanced ethical hacking techniques and the latest in web security.
-- 🎯 **My goal**: To build open-source security tools and contribute to the hacking community in a responsible manner.
+- 🌱 **Currently learning**: **Bash**, **C++**  
+- 🎯 **My goal**: To build open-source security tools and contribute to the community.
 ## 🌟 Stats & Achievements:
 ![Fibonacci0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fibonacci0&show_icons=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fibonacci0&layout=compact)  
